@@ -1,0 +1,28 @@
+{
+  "name": "nkeparser",
+  "version": "1.0.1",
+  "description": "Parser for NKE temperature sensors ",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.19.0",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoisoudot/gcloud-nkeparser.git"
+  },
+  "keywords": [
+    "gcloud",
+    "sigfox"
+  ],
+  "author": "F Oudot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francoisoudot/gcloud-nkeparser/issues"
+  },
+  "homepage": "https://github.com/francoisoudot/gcloud-nkeparser#readme"
+}
